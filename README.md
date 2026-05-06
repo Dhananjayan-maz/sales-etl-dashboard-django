@@ -3,6 +3,8 @@
 ## Overview
 This project is a web-based ETL pipeline built using Django, Pandas, and MySQL. It allows users to upload raw CSV data, process it through an ETL workflow, and visualize insights using an interactive dashboard.
 
+<img width="1915" height="908" alt="ETL workflow" src="https://github.com/user-attachments/assets/8d928ff8-4e13-42b9-9b33-0b4f69b2f35d" />
+
 ---
 
 ## Features
